@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "C:\\mpj\\lib\\mpj.jar",
+        "C:\\Users\\lukaz\\Downloads\\jdeli-trial.jar"
+    ],
+    "git.ignoreLimitWarning": true
+}

@@ -1,0 +1,13 @@
+{
+  "java.project.referencedLibraries": {
+    "include": [
+      "lib/**/*.jar",
+      "c:\\mpj\\lib\\mpj.jar",
+      "c:\\Users\\lukaz\\Downloads\\jdeli-trial.jar"
+    ],
+    "exclude": [
+      "c:\\Program Files\\mpj\\lib\\mpi.jar"
+    ]
+  },
+  "git.ignoreLimitWarning": true
+}
